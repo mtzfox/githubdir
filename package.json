@@ -1,0 +1,19 @@
+{
+  "name": "githubdir",
+  "version": "1.0.0",
+  "description": "for github projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redfoxseattle/githubdir.git"
+  },
+  "author": "Mike C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redfoxseattle/githubdir/issues"
+  },
+  "homepage": "https://github.com/redfoxseattle/githubdir#readme"
+}
